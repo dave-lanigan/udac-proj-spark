@@ -35,7 +35,6 @@ After editing the configuration file to with the required information. To ETL an
 
 ### Files in the repository:
 
-* dl.cfg
 * etl.py
 * download.png
 
